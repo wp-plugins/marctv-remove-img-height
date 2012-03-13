@@ -4,7 +4,7 @@
   Plugin URI: http://www.marctv.de/blog/2010/08/25/marctv-wordpress-plugins/
   Description: Removes the height attribute from all images in the content.
   Author: MarcDK
-  Version: 1.0
+  Version: 1.1
   Author URI: http://marctv.de
   License: GPL2
  */
