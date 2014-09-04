@@ -2,8 +2,8 @@
 Contributors: MarcDK
 Tags: marctv, responsive, height, image
 Requires at least: 3.0
-Tested up to: 3.3.1
-Stable tag: 1.1
+Tested up to: 4.0
+Stable tag: 1.2
 
 == Description ==
 
